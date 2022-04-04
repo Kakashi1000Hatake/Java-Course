@@ -1,0 +1,18 @@
+Data Type                   Size                    Primitive/Reference                 Value
+
+boolean                     1 bit                   Primitive                           true or false
+byte                        1 byte                  Primitive                           -128 to 127
+short                       2 bytes                 Primitive                           -32,768 to 32,767
+int                         4 bytes                 Primitive                           -2 billion to 2 billion
+long                        8 bytes                 Primitive                           -9 quintillion to 9 quintillion
+
+float                       4 bytes                 Primitive                           fractional numbers upto 6-7 digits
+                                                                                        ex. 3.141592f
+double                      8 bytes                 Primitive                           fractional numbers upto 15 digits
+                                                                                        ex. 3.141592653589793
+
+char                        2 bytes                 Primitive                           single character/letter/ASCII value
+                                                                                        ex. 'f'
+String                      varies                  Reference                           a sequence of characters
+                                                                                        ex. "Hello World!"
+
